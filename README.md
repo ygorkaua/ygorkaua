@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub profile! :)
 
 - 🔭 I’m currently working as Backend developer principally using PHP with Magento (Adobe Commerce) framework
-- 🌱 I’m currently learning Laravel and NodeJS
+- 🌱 I’m currently learning Laravel, NodeJS and Swift
 - 📚 Studying computer science at Universidade Paulista - UNIP (7th semester)
 
 <div>
