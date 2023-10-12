@@ -1,8 +1,8 @@
 ### Hello! Welcome to my GitHub profile! :)
 
 - 🔭 I’m currently working as Backend developer principally using PHP with Magento (Adobe Commerce) framework
-- 🌱 I’m currently learning Laravel, NodeJS and Swift
-- 📚 Studying computer science at Universidade Paulista - UNIP (8th semester)
+- 🌱 I’m currently learning Laravel, NodeJS and ReactJS
+- 📚 Graduated in computer science at Universidade Paulista (UNIP)
 
 <div>
   <a href = "mailto:ygorkaua27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
