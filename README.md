@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td><b>For fun</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,python" alt=".NET, Python" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
   </tr>
 </table>
 
